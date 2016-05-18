@@ -1,0 +1,16 @@
+{
+"resources":
+	[
+        {"name":"imgs","type":"sheet","url":"assets/imgs.json"},
+        {"name":"bg","type":"image","url":"assets/bg.jpg"},
+        {"name":"share","type":"image","url":"assets/share.png"},
+		{"name":"arrow","type":"image","url":"assets/arrow.png"},
+		
+	],
+
+"groups":
+	[
+        {"name":"assets","keys":"imgs"},
+        {"name":"shareGroup","keys":"share,arrow"}
+	]
+}
